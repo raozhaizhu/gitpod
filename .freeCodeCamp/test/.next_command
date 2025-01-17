@@ -65,3 +65,4 @@ git remote set-url origin https://github.com/raozhaizhu/gitpod
 git branch -M main
 git push -u origin main
 echo hello PostgreSQL
+psql --username=freecodecamp --dbname=postgres
